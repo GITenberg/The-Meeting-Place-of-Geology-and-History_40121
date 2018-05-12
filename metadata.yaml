@@ -1,0 +1,40 @@
+_repo: The-Meeting-Place-of-Geology-and-History_40121
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40121-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dawson, John William, Sir
+    aliases:
+    - Dawson, William, Sir
+    - Dawson, Sir John William
+    - Dawson, J. W. (John William), Sir
+    - Dawson, Sir J. William
+    - Dawson, J. William (John William), Sir
+    birthdate: 1820
+    deathdate: 1899
+    gutenberg_agent_id: '40426'
+    url: http://www.gutenberg.org/2009/agents/40426
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
+description: ''
+gutenberg_issued: '2012-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40121'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deluge'
+- !lcsh 'Prehistoric peoples'
+- !lcc 'GN'
+tableOfContents: General nature of the subject -- The world before man -- The earliest
+  traces of man -- The palanthropic age -- Subdivisions and conditions of the palanthropic
+  age -- End of the palanthropic age -- The early neanthropic age -- The palanthropic
+  age in the light of history -- The Deluge of Noah -- Special questions respecting
+  the Deluge -- The prehistoric and historic in the east -- The neanthropic dispersion
+  -- Summary of results.
+title: The Meeting-Place of Geology and History
+url: http://www.gutenberg.org/ebooks/40121
