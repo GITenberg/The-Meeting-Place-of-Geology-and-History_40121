@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40426
     wikipedia: http://en.wikipedia.org/wiki/John_William_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40121#The-Meeting-Place-of-Geology-and-History
 gutenberg_issued: '2012-07-02'
 gutenberg_type: Text
 identifiers:
